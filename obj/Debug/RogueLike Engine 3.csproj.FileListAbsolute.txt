@@ -1,0 +1,52 @@
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\Fonts\Cheepicus_12x12.png
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\Fonts\IBM8x16.png
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\Fonts\Cheepicus12.font
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\Fonts\IBM.font
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\RogueSharpSadConsoleSamples.exe.config
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\RogueSharpSadConsoleSamples.exe
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\RogueSharpSadConsoleSamples.pdb
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\MonoGame.Framework.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\RogueSharp.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\SadConsole.Core.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\SharpDX.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\SharpDX.XInput.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\SharpDX.RawInput.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\MonoGame.Framework.xml
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\RogueSharp.xml
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\bin\Debug\SadConsole.Core.xml
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\obj\Debug\RogueSharpSadConsoleSamples.exe
+C:\Users\Sean\Downloads\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\FaronBracy-roguesharpsadconsolesamples-edd7f11e18c2\RogueSharpSadConsoleSamples\obj\Debug\RogueSharpSadConsoleSamples.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\RogueSharpSadConsoleSamples.exe.config
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\obj\Debug\RogueSharpSadConsoleSamples.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\obj\Debug\RogueSharpSadConsoleSamples.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\Fonts\Cheepicus_12x12.png
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\Fonts\IBM8x16.png
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\Fonts\Cheepicus12.font
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\Fonts\IBM.font
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\RogueSharpSadConsoleSamples.exe
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\RogueSharpSadConsoleSamples.pdb
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\MonoGame.Framework.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\RogueSharp.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\SadConsole.Core.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\SharpDX.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\SharpDX.XInput.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\SharpDX.RawInput.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\MonoGame.Framework.xml
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\RogueSharp.xml
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\SadConsole.Core.xml
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\OpenTK.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\RLNET.dll
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\bin\Debug\OpenTK.xml
+C:\Users\Sean\Documents\Visual Studio 2015\Projects\RogueLike Engine 3\RogueLike Engine 3\RogueLike Engine 3\obj\Debug\RogueLike Engine 3.csprojResolveAssemblyReference.cache
